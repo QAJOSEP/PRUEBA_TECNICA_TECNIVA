@@ -1,0 +1,27 @@
+server:
+    port: 8080
+    
+spring:
+    application:
+        name: user-microservice
+    jpa:
+        database: h2
+        show-sql: false
+        database-platform: org.hibernate.dialect.H2Dialect
+        hibernate:
+            ddl-auto: update
+    datasource:
+        driver-class-name: org.h2.Driver
+        url: jdbc:h2:mem:testdb
+        username: sa
+        password:
+    mvc:
+        throw-exception-if-no-handler-found: true
+    output:
+        ansi:
+            enabled: always
+
+# Página allkeysgenerator -> Security-Encryption-Key-Generator
+jwt:
+    secret: aEIu9S7cvZUnPJWezau3rKUCxj4BLtpCVzhVSyam93prJOxofs7688P0OD5tmTIsLL6u7G9HpXvT
+
