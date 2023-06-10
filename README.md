@@ -1,6 +1,6 @@
 # Microservicio de Spring Boot
 
-Este repositorio contiene un microservicio de Usuarios desarrollado en Spring Boot y Spring Security.
+Este repositorio contiene un microservicio de Usuarios desarrollado en Spring Boot, Spring Security, Spring Cloud, base de datos embebida H2, Swagger y Actuator.
 ## Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
