@@ -7,7 +7,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 - Java Development Kit (JDK) 8 o superior.
 - Apache Maven para compilar y construir el proyecto.
-- DE de desarrollo como IntelliJ IDEA o VS Code.
+- IDE sugeridos: IntelliJ IDEA, Eclipse, Spring Tool Suit o VS Code.
 
 ## Configuración del proyecto
 
