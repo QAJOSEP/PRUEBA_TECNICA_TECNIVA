@@ -37,7 +37,7 @@ Sigue estos pasos para compilar y ejecutar el microservicio:
 
 1. Navega al directorio raíz del proyecto.
 
-2. Ejecuta el siguiente comando para compilar el proyecto:
+2. Ejecuta el siguiente comando desde una terminal para compilar el proyecto:
 
    ```
    mvn clean install
@@ -49,46 +49,10 @@ Sigue estos pasos para compilar y ejecutar el microservicio:
    mvn spring-boot:run
    ```
 
-4. El microservicio ahora debería estar en funcionamiento y accesible a través de la URL base especificada en la configuración.
+   o ejecuta el proyecto desde ExamApplication con el menu Run Project.
+   
+4. El microservicio ahora debería estar en funcionamiento y accesible a través del localhost 8761 y 8080.
 
 ## Uso del microservicio
 
-Aquí puedes proporcionar instrucciones sobre cómo utilizar el microservicio, incluyendo los endpoints disponibles y cualquier información adicional relevante.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, puedes seguir estos pasos:
-
-1. Haz un fork de este repositorio y clónalo en tu máquina local.
-
-2. Crea una nueva rama para tus cambios:
-
-   ```
-   git checkout -b feature/nombre-de-la-funcionalidad
-   ```
-
-3. Realiza los cambios y las mejoras en tu rama local.
-
-4. Haz commit de tus cambios:
-
-   ```
-   git commit -m "Descripción de los cambios realizados"
-   ```
-
-5. Empuja tus cambios a tu repositorio remoto:
-
-   ```
-   git push origin feature/nombre-de-la-funcionalidad
-   ```
-
-6. Abre un Pull Request en este repositorio y describe tus cambios detalladamente.
-
-7. Espera a que tu Pull Request sea revisado y fusionado.
-
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Puedes consultar el archivo `LICENSE` para obtener más información.
-
-## Contacto
-
-Si tienes alguna pregunta
