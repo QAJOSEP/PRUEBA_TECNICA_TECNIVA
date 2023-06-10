@@ -16,7 +16,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
 
    ```
-   git clone URL del repositorio
+   git clone https://github.com/QAJOSEP/PRUEBA_TECNICA_TECNIVA.git
    ```
 
 2. Abre el proyecto en tu IDE o con línea de comandos.
