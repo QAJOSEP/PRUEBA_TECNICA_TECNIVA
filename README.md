@@ -55,4 +55,6 @@ Sigue estos pasos para compilar y ejecutar el microservicio:
 
 ## Uso del microservicio
 
-
+1. Para mayor referencia de los recursos y su implementación dirigete a http://localhost:8080/swagger-ui/index.html  
+   
+   Donde podrás encontrar la documentación de la API
