@@ -1,14 +1,13 @@
 # Microservicio de Spring Boot
 
-Este repositorio contiene un microservicio desarrollado en Spring Boot que proporciona [descripción breve de la funcionalidad del microservicio].
-
+Este repositorio contiene un microservicio desarrollado en Spring Boot de Usuarios con roles y Spring Security.
 ## Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 - Java Development Kit (JDK) 8 o superior.
 - Apache Maven para compilar y construir el proyecto.
-- [Opcional] IDE de desarrollo como IntelliJ IDEA o Eclipse.
+- DE de desarrollo como IntelliJ IDEA o VS Code.
 
 ## Configuración del proyecto
 
@@ -17,10 +16,10 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
 
    ```
-   git clone <URL del repositorio>
+   git clone URL del repositorio
    ```
 
-2. Abre el proyecto en tu IDE preferido o usa la línea de comandos.
+2. Abre el proyecto en tu IDE o con línea de comandos.
 
 3. Asegúrate de tener una conexión a Internet estable, ya que el proyecto requerirá descargar dependencias desde Maven Central Repository.
 
