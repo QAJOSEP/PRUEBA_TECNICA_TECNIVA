@@ -21,17 +21,15 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 2. Abre el proyecto en tu IDE o con línea de comandos.
 
-3. Asegúrate de tener una conexión a Internet estable, ya que el proyecto requerirá descargar dependencias desde Maven Central Repository.
-
-4. [Opcional] Si estás utilizando un IDE, importa el proyecto como un proyecto Maven existente. El IDE debería resolver automáticamente las dependencias del proyecto.
-
 ## Configuración de la base de datos
 
-Si el microservicio utiliza una base de datos, sigue estos pasos para configurarla:
+1. Levanta el proyecto.
 
-1. [Opcional] Instala y configura el sistema de gestión de base de datos de tu elección (por ejemplo, MySQL, PostgreSQL, MongoDB).
+2. Dirigete al https://localhost:8000/h2-console/
 
-2. Actualiza las propiedades de configuración del microservicio en el archivo `application.properties` o `application.yml` ubicado en la carpeta `src/main/resources`. Asegúrate de proporcionar la URL de conexión correcta, el nombre de usuario y la contraseña para tu base de datos.
+3. Las credenciales y la dirección ya estan configuradas.
+
+4. Accede a la base de datos.   
 
 ## Compilación y ejecución del microservicio
 
